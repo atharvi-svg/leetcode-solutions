@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0198-house-robber) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
