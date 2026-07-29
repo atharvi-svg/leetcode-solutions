@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Hash Table
 |  |
