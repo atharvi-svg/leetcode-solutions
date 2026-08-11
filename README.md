@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
