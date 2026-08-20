@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
@@ -46,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/atharvi-svg/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
